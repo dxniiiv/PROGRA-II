@@ -16,9 +16,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.calculadora.R;
-import com.example.calculadora.detectarInternet;
-import com.example.calculadora.utilidades;
+import com.ugb.proyecto_final.R;
+import com.ugb.proyecto_final.detectarInternet;
+import com.ugb.proyecto_final.utilidades;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
